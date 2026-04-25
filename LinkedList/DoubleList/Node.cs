@@ -2,7 +2,7 @@
 
 public class Node<T>
 {
-    public Node(T data)////////
+    public Node(T data)
     {
         Data = data;
         Next = null;
@@ -12,4 +12,4 @@ public class Node<T>
     public T? Data { get; set; }
     public Node<T>? Next { get; set; }
     public Node<T>? Previous { get; set; }
-}YYgsjxhaklñ
+}
